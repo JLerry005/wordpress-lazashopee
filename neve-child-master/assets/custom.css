@@ -1,0 +1,22 @@
+
+.edit--button{
+    background-color: #1b1b1b;
+}
+
+.delete--button {
+    background-color: #EA5455;
+}
+
+.edit--button, .delete--button {
+    font-size: 15px;
+}
+
+#btnSubmit{
+    background-color: #41644A;
+}
+
+#modal{
+    display: none;
+}
+
+
